@@ -1,9 +1,9 @@
 # Real_Time_Color_Detection_Using_OpenCV
 
-### First video input:
+### Video input:
 <img src="https://media.giphy.com/media/v1sBDYrLjvEN4Kg88b/giphy.gif">
 
-### First video output:
+### Video output:
 <img src="https://media.giphy.com/media/4qvM30PKbnykC5Ik8W/giphy.gif">
 <!--
 ### Second video input:
